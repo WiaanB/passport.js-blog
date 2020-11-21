@@ -1,7 +1,7 @@
 # StoryBooks
 
 ### Reason behind the build
-I wanted to create a more fleshed out version of a prior project I build where I made a blog with Vue and Node. For this build I focussed on Node + HandleBars while making use of Passport.js for the first time using the Google Strategy.
+I wanted to create a more fleshed out version of a prior project I built where I made a blog with Vue and Node. For this build I focussed on Node + HandleBars while making use of Passport.js for the first time using the Google Strategy.
 
 ### Features
 * CRUD Operations for Stories/Posts
